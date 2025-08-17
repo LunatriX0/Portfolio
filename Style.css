@@ -317,10 +317,7 @@ form input, form textarea{
     font-weight: 20px;
 } */
 /* -------------css for small screens------------ */
-@media only screen and (max-width:600px){
-    
 
-}
 @media (max-width: 768px) {
     .certificates-list {
         grid-template-columns: repeat(2, 1fr); /* Two columns */
